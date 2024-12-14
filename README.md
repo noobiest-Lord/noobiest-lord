@@ -12,7 +12,8 @@ I am a freshman at Texas A&M University (Whoop!). I intend to major in Computer 
 - 👯 I’m looking to collaborate on: Any computer architchure projects (Circuit and Logic implementations), but I'm open to anything computers!
 
 
-Projects I'm working on:
+
+## Projects I'm working on:
 - Building a single-cycle 16-bit RISC-V CPU
 - A keycard using blockchain that wil help graduate students to access labs securely
 - A attachment to a bike that will generate energy while you are biking
